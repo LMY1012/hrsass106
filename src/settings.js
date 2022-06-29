@@ -1,6 +1,6 @@
 module.exports = {
   // 浏览器中的标题
-  title: '人事管理',
+  title: '人事资源管理',
 
   /**
    * @type {boolean} true | false
@@ -14,5 +14,5 @@ module.exports = {
    * @description Whether show the logo in sidebar
    */
   // 侧边栏logo是否显示
-  sidebarLogo: false
+  sidebarLogo: true
 }
